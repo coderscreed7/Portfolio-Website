@@ -1,8 +1,7 @@
 function initTeamPage() {
     const team = [
-        { name: "Aniket Das", role: "Brand Strategist" },
-        { name: "Pratik Prasad", role: "Creative Director" },
-        { name: "Shubham Lal", role: "Tech Lead" }
+        { name: "Aditya Rawat", role: "Full Stack Developer" },
+        { name: "Adarsh Tiwari", role: "Full Stack Developer" }
     ];
 
     let currentSlide = 1;
